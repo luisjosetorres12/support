@@ -1,11 +1,11 @@
 
 {
-            {
+            
             "id": "1",
             "first_name": "ROGER",
             "last_name": "RENDON",            
             "email": "roger@gmail.com",
             "supporter": true,
             "password": "123"
-          }
+          
 }
