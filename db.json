@@ -1,10 +1,12 @@
+
 {
+            {
             id: "1",
             first_name: "ROGER",
             last_name: "RENDON",            
             email: "roger@gmail.com",
             supporter: true,
-            password: "123",
+            password: "123"
           },
           {
             id: "2",
@@ -12,7 +14,7 @@
             last_name: "GOMEZ",            
             email: "eliana@gmail.com",
             supporter: false,
-            password: "456",
+            password: "456"
           },
           {
             id: "3",
@@ -20,7 +22,7 @@
             last_name: "TORRES",            
             email: "juan@gmail.com",
             supporter: true,
-            password: "789",
+            password: "789"
           },
           {
             id: "4",
@@ -28,5 +30,6 @@
             last_name: "VILLA",            
             email: "daniel@gmail.com",
             supporter: true,
-            password: "012",
+            password: "012"
           }
+}
